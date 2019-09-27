@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AddDataToSpinner</string>
+    <string name="enter_value_to_add_in_spinner">Enter Value to add in Spinner</string>
+    <string name="add_to_spinner">Add To Spinner</string>
+</resources>
